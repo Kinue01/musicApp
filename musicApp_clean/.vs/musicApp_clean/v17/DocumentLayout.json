@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tverd\\source\\repos\\musicApp_clean\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87BB47FD-DF36-44A0-8F47-00160C819878}|musicApp_clean.UI.csproj|c:\\users\\tverd\\source\\repos\\musicapp_clean\\viewmodel\\musicsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BB47FD-DF36-44A0-8F47-00160C819878}|musicApp_clean.UI.csproj|solutionrelative:viewmodel\\musicsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BB47FD-DF36-44A0-8F47-00160C819878}|musicApp_clean.UI.csproj|c:\\users\\tverd\\source\\repos\\musicapp_clean\\view\\musicsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{87BB47FD-DF36-44A0-8F47-00160C819878}|musicApp_clean.UI.csproj|solutionrelative:view\\musicsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BB47FD-DF36-44A0-8F47-00160C819878}|musicApp_clean.UI.csproj|c:\\users\\tverd\\source\\repos\\musicapp_clean\\view\\navigationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{87BB47FD-DF36-44A0-8F47-00160C819878}|musicApp_clean.UI.csproj|solutionrelative:view\\navigationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BB47FD-DF36-44A0-8F47-00160C819878}|musicApp_clean.UI.csproj|c:\\users\\tverd\\source\\repos\\musicapp_clean\\services\\implementation\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BB47FD-DF36-44A0-8F47-00160C819878}|musicApp_clean.UI.csproj|solutionrelative:services\\implementation\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BB47FD-DF36-44A0-8F47-00160C819878}|musicApp_clean.UI.csproj|c:\\users\\tverd\\source\\repos\\musicapp_clean\\viewmodel\\navigationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BB47FD-DF36-44A0-8F47-00160C819878}|musicApp_clean.UI.csproj|solutionrelative:viewmodel\\navigationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BB47FD-DF36-44A0-8F47-00160C819878}|musicApp_clean.UI.csproj|c:\\users\\tverd\\source\\repos\\musicapp_clean\\services\\interface\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BB47FD-DF36-44A0-8F47-00160C819878}|musicApp_clean.UI.csproj|solutionrelative:services\\interface\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDEE409-8F08-425E-9E76-62D41E1116EB}|..\\musicApp_clean.Domain\\musicApp_clean.Domain.csproj|c:\\users\\tverd\\source\\repos\\musicapp_clean.domain\\usecase\\getmusicsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BB47FD-DF36-44A0-8F47-00160C819878}|musicApp_clean.UI.csproj|c:\\users\\tverd\\source\\repos\\musicapp_clean\\services\\interface\\imusicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BB47FD-DF36-44A0-8F47-00160C819878}|musicApp_clean.UI.csproj|solutionrelative:services\\interface\\imusicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BB47FD-DF36-44A0-8F47-00160C819878}|musicApp_clean.UI.csproj|c:\\users\\tverd\\source\\repos\\musicapp_clean\\services\\implementation\\musicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BB47FD-DF36-44A0-8F47-00160C819878}|musicApp_clean.UI.csproj|solutionrelative:services\\implementation\\musicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50A5818B-C0E9-4B1D-80FE-207F988E0CA6}|..\\musicApp_clean.Infrastructure\\musicApp_clean.Infrastructure.csproj|c:\\users\\tverd\\source\\repos\\musicapp_clean.infrastructure\\entityframework\\implementations\\musicefdatasourceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 322,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicsView.xaml",
+              "DocumentMoniker": "C:\\Users\\tverd\\source\\repos\\musicApp_clean\\View\\MusicsView.xaml",
+              "RelativeDocumentMoniker": "View\\MusicsView.xaml",
+              "ToolTip": "C:\\Users\\tverd\\source\\repos\\musicApp_clean\\View\\MusicsView.xaml",
+              "RelativeToolTip": "View\\MusicsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-02T18:31:10.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\tverd\\source\\repos\\musicApp_clean\\Services\\Implementation\\NavigationService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\tverd\\source\\repos\\musicApp_clean\\Services\\Implementation\\NavigationService.cs",
+              "RelativeToolTip": "Services\\Implementation\\NavigationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:27:23.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\tverd\\source\\repos\\musicApp_clean\\Services\\Interface\\INavigationService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\INavigationService.cs",
+              "ToolTip": "C:\\Users\\tverd\\source\\repos\\musicApp_clean\\Services\\Interface\\INavigationService.cs",
+              "RelativeToolTip": "Services\\Interface\\INavigationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T17:27:20.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusicsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tverd\\source\\repos\\musicApp_clean\\ViewModel\\MusicsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\MusicsViewModel.cs",
+              "ToolTip": "C:\\Users\\tverd\\source\\repos\\musicApp_clean\\ViewModel\\MusicsViewModel.cs",
+              "RelativeToolTip": "ViewModel\\MusicsViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T18:33:04.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavigationView.xaml",
+              "DocumentMoniker": "C:\\Users\\tverd\\source\\repos\\musicApp_clean\\View\\NavigationView.xaml",
+              "RelativeDocumentMoniker": "View\\NavigationView.xaml",
+              "ToolTip": "C:\\Users\\tverd\\source\\repos\\musicApp_clean\\View\\NavigationView.xaml",
+              "RelativeToolTip": "View\\NavigationView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-14T17:27:44.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetMusicsUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\tverd\\source\\repos\\musicApp_clean.Domain\\UseCase\\GetMusicsUseCase.cs",
+              "RelativeDocumentMoniker": "..\\musicApp_clean.Domain\\UseCase\\GetMusicsUseCase.cs",
+              "ToolTip": "C:\\Users\\tverd\\source\\repos\\musicApp_clean.Domain\\UseCase\\GetMusicsUseCase.cs",
+              "RelativeToolTip": "..\\musicApp_clean.Domain\\UseCase\\GetMusicsUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:22:23.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavigationViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tverd\\source\\repos\\musicApp_clean\\ViewModel\\NavigationViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\NavigationViewModel.cs",
+              "ToolTip": "C:\\Users\\tverd\\source\\repos\\musicApp_clean\\ViewModel\\NavigationViewModel.cs",
+              "RelativeToolTip": "ViewModel\\NavigationViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T19:27:17.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MusicEFDataSourceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\tverd\\source\\repos\\musicApp_clean.Infrastructure\\EntityFramework\\Implementations\\MusicEFDataSourceImpl.cs",
+              "RelativeDocumentMoniker": "..\\musicApp_clean.Infrastructure\\EntityFramework\\Implementations\\MusicEFDataSourceImpl.cs",
+              "ToolTip": "C:\\Users\\tverd\\source\\repos\\musicApp_clean.Infrastructure\\EntityFramework\\Implementations\\MusicEFDataSourceImpl.cs",
+              "RelativeToolTip": "..\\musicApp_clean.Infrastructure\\EntityFramework\\Implementations\\MusicEFDataSourceImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T19:24:54.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMusicService.cs",
+              "DocumentMoniker": "C:\\Users\\tverd\\source\\repos\\musicApp_clean\\Services\\Interface\\IMusicService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IMusicService.cs",
+              "ToolTip": "C:\\Users\\tverd\\source\\repos\\musicApp_clean\\Services\\Interface\\IMusicService.cs",
+              "RelativeToolTip": "Services\\Interface\\IMusicService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T20:27:45.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MusicService.cs",
+              "DocumentMoniker": "C:\\Users\\tverd\\source\\repos\\musicApp_clean\\Services\\Implementation\\MusicService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementation\\MusicService.cs",
+              "ToolTip": "C:\\Users\\tverd\\source\\repos\\musicApp_clean\\Services\\Implementation\\MusicService.cs",
+              "RelativeToolTip": "Services\\Implementation\\MusicService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAACEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T18:19:36.018Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 11,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

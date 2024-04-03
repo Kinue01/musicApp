@@ -1,0 +1,22 @@
+﻿<Application x:Class="musicApp_clean.UI.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:musicApp_clean.UI"
+             xmlns:vm="clr-namespace:musicApp_clean.UI.ViewModel"
+             xmlns:view="clr-namespace:musicApp_clean.UI.View">
+    <Application.Resources>
+
+        <DataTemplate DataType="{x:Type TypeName=vm:MusicsViewModel}">
+            <view:MusicsView />
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type TypeName=vm:HomeViewModel}">
+            <view:HomeView />
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type TypeName=vm:MusicControlViewModel}">
+            <view:MusicControlView />
+        </DataTemplate>
+
+    </Application.Resources>
+</Application>

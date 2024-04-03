@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "musicApp_clean.Domain/1.0.0": {
+        "runtime": {
+          "musicApp_clean.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "musicApp_clean.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

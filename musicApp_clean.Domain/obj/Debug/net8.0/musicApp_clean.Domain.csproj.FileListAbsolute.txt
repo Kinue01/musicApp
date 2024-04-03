@@ -1,0 +1,11 @@
+C:\Users\tverd\source\repos\musicApp_clean.Domain\bin\Debug\net8.0\musicApp_clean.Domain.deps.json
+C:\Users\tverd\source\repos\musicApp_clean.Domain\bin\Debug\net8.0\musicApp_clean.Domain.dll
+C:\Users\tverd\source\repos\musicApp_clean.Domain\bin\Debug\net8.0\musicApp_clean.Domain.pdb
+C:\Users\tverd\source\repos\musicApp_clean.Domain\obj\Debug\net8.0\musicApp_clean.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tverd\source\repos\musicApp_clean.Domain\obj\Debug\net8.0\musicApp_clean.Domain.AssemblyInfoInputs.cache
+C:\Users\tverd\source\repos\musicApp_clean.Domain\obj\Debug\net8.0\musicApp_clean.Domain.AssemblyInfo.cs
+C:\Users\tverd\source\repos\musicApp_clean.Domain\obj\Debug\net8.0\musicApp_clean.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tverd\source\repos\musicApp_clean.Domain\obj\Debug\net8.0\musicApp_clean.Domain.dll
+C:\Users\tverd\source\repos\musicApp_clean.Domain\obj\Debug\net8.0\refint\musicApp_clean.Domain.dll
+C:\Users\tverd\source\repos\musicApp_clean.Domain\obj\Debug\net8.0\musicApp_clean.Domain.pdb
+C:\Users\tverd\source\repos\musicApp_clean.Domain\obj\Debug\net8.0\ref\musicApp_clean.Domain.dll
